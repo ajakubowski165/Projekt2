@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639587655 source:c:\users\48788\onedrive\pulpit\nauka\algorytmyprojekt\projekt 2\sortowania\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<stdio.h>
+	<chrono>
+
